@@ -1,0 +1,10 @@
+{
+"intra_id":"/21775744923/example/interstitial",
+"reward_id":"/21775744923/example/rewarded",
+"openad_id":"/21775744923/example/app-open",
+"lock_after":4,
+"multiple_web_allow":4,
+"is_intra":true,
+"is_reward":true,
+"is_open":true
+}
